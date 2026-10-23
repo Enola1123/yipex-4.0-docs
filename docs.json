@@ -29,6 +29,12 @@
           "pc-duan/fa-bi-liu-shui",
           "pc-duan/ge-ren-zhong-xin"
         ]
+      },
+      {
+        "group": "APP端",
+        "pages": [
+          "%E5%AE%8C%E5%96%84%E4%B8%AD"
+        ]
       }
     ]
   },
